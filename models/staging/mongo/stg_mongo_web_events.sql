@@ -1,1 +1,0 @@
-select * from {{source('DBTDEMO', 'WEB_EVENTS')}}
