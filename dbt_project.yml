@@ -36,5 +36,3 @@ models:
     +tags: all_models
     marts:
       +materialized: table
-    staging:
-      +materialized: view
