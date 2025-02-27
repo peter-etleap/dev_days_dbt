@@ -2,6 +2,10 @@ selectors:
   - name: all_models
     definition:
       tag: all_models
+  - name: spend_by_login
+    definition:
+      method: fqn
+      value: spend_by_login
   - name: logins_by_user
     definition:
       method: fqn
