@@ -10,7 +10,3 @@ selectors:
     definition:
       method: fqn
       value: logins_by_user
-  - name: user_copy
-    definition:
-      method: fqn
-      value: user_copy
