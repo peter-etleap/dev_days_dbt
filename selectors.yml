@@ -10,9 +10,7 @@ selectors:
     definition:
       method: fqn
       value: logins_by_user
-
-selectors:
-  - name: all_models
+  - name: watchlist_anomaly
     definition:
       method: fqn
       value: "int_watchlist_anomaly"
