@@ -13,4 +13,4 @@ selectors:
   - name: watchlist_anomaly
     definition:
       method: fqn
-      value: "int_watchlist_anomaly"
+      value: "fct_exposure"

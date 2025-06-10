@@ -38,7 +38,3 @@ models:
       +materialized: table
   trading_anomaly:
     +materialized: table
-
-on-run-start:
-  - "ALTER ICEBERG TABLE PUBLIC.\"TRADE_ANOMALY_zBSiyNiS\" REFRESH;"
-  
