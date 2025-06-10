@@ -10,7 +10,6 @@ selectors:
     definition:
       method: fqn
       value: logins_by_user
-  - name: watchlist_anomaly
+  - name: trade_anomaly
     definition:
-      method: fqn
-      value: "fct_exposure"
+      tag: trade_anomaly
