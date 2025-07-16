@@ -1,0 +1,10 @@
+version: 2
+sources:
+  - name: peter_test
+    database: dev_etleap
+    schema: peter_test
+    tables:
+      - name: SFTP_test_csv_dev
+      - name: etleap___script
+      - name: gMnEOfRX
+      - name: peter_test___peter_test
