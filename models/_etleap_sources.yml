@@ -13,3 +13,4 @@ sources:
     schema: zygi_test
     tables:
       - name: Test_xlsx___Sheet1
+      - name: zest_xlsx___Sheet1
