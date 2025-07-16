@@ -8,3 +8,8 @@ sources:
       - name: gMnEOfRX
       - name: peter_test___peter_test
       - name: SFTP_test_csv_dev
+  - name: zygi_test
+    database: dev_etleap
+    schema: zygi_test
+    tables:
+      - name: Test_xlsx___Sheet1
