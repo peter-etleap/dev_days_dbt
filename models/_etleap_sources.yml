@@ -1,6 +1,3 @@
 version: 2
-sources:
-  - name: peter_test
-    database: dev_etleap
-    tables:
-      - name: POINTS___Team_Scoring
+sources: [
+    ]
