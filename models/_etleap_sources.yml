@@ -2,14 +2,13 @@ version: 2
 sources:
   - name: peter_test
     database: dev_etleap
-    schema: peter_test
     tables:
+      - name: etleap___script
       - name: gMnEOfRX
       - name: peter_test___peter_test
       - name: SFTP_test_csv_dev
   - name: zygi_test
     database: dev_etleap
-    schema: zygi_test
     tables:
       - name: Test_xlsx___Sheet1
       - name: zest_xlsx___Sheet1
